@@ -77,13 +77,9 @@ a {
   padding: 180px 0 100px 0;
   color: white;
   background-image: url(https://flowerillust.com/img/flower/flower-back1298.jpg);/*背景画像のURL*/
-  background-size:cover;
+  background-size: cover;
 }
 
-.back {
-  height:100%;
-  background: rgba(255,255,255,0.5);
-}
 
 
 
