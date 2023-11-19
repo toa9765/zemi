@@ -1,0 +1,154 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.header {
+  height: 65px;
+  width: 100%;
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+  position:fixed;
+  top:0;
+  z-index: 0;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding: 20px 20px;
+  color:white;
+}
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.container h1{
+  color:black;
+  text-align: center;
+}
+
+.btn{           
+  color: white;            
+  display: inline-block;            
+  opacity: 0.8;
+  background-color: #239b76;
+  border-radius: 4px;
+}
+
+
+
+.bts{            
+  color: white;            
+  display: inline-block;            
+  opacity: 0.8;
+  background-color: #239b76;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+.btn:hover {
+  opacity: 1;
+}
+
+.ai:hover {
+  opacity: 1;
+}
+
+.bts:hover {
+  opacity: 1;
+}
+.main{
+  padding: 180px 0 100px 0;
+  color: white;
+  background-image: url(https://flowerillust.com/img/flower/flower-back1298.jpg);/*背景画像のURL*/
+}
+
+.back {
+  height:100%;
+  background: rgba(255,255,255,0.5);
+}
+
+
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+  color:blueviolet
+}
+
+.an{border-bottom: 2px solid #dee7ec;
+font-size: 28px;
+padding-bottom: 15px;
+margin-bottom: 50px;
+color:blueviolet
+}
+
+.an1 p{
+  border:5px dotted blue;
+
+  width:auto;
+  color:black
+}
+.content{
+  width: 100%;
+  height: auto;
+  text-align: center;
+  color:red
+
+}
+.contents1{
+  border:1px solid #239b76
+}
+
+.contents2{
+  margin-top: 30px;
+  border:1px solid #239b76
+}
+
+
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 40px;
+  padding: 10px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+  
+}
+.header-right a {
+  color: white;
+  display: block;
+}
+
+
+  
