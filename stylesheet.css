@@ -76,8 +76,8 @@ a {
 .main{
   padding: 180px 0 100px 0;
   color: white;
-  background-image: url(https://flowerillust.com/img/flower/flower-back1298.jpg);/*背景画像のURL*/
-  background-size: cover;
+  background-image: url(https://flowerillust.com/img/flower/flower-back1298.jpg);
+  
 }
 
 
@@ -112,7 +112,7 @@ color:blueviolet
 
 }
 .contents1{
-  border:1px solid #239b76
+  border:1px solid #239b76 
 }
 
 .contents2{
@@ -120,7 +120,9 @@ color:blueviolet
   border:1px solid #239b76
 }
 
-
+.content img{
+  margin: 50px 0;
+}
 
 .footer {
   background-color: #2f5167;
@@ -147,5 +149,27 @@ color:blueviolet
   display: block;
 }
 
+.buffet{
+  margin-left: 10px;
+ 
+
+}
+
+ .buffet h2{
+  color:red;
+  font-size:20px;
+  
+ } 
+  .own1{
+    border:1px solid #239b76;
+    color:blue;
+
+  }
+  .sales1{
+    border:1px solid #239b76;
+    color:blue;
+    margin-top: 30px;
+
+  }
 
   
